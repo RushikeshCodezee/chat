@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="cyn">#F0FFFE</color>
+    <color name="view_bg">#B8B8B8</color>
+    <color name="log_sing_button">#465193</color>
+    <color name="receive_box_clr">#3C5AFF</color>
+    <color name="sent_box_clr">#DADADA</color>
+</resources>

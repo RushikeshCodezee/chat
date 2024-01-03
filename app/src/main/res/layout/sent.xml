@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/_2dp"
+    app:cardElevation="@dimen/_1dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="@dimen/_4dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/txt_send_msg"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="end"
+                android:background="@drawable/testrecty"
+                android:fontFamily="@font/space_grotesk"
+                android:paddingStart="@dimen/_10dp"
+                android:paddingTop="@dimen/_10dp"
+                android:paddingEnd="@dimen/_20dp"
+                android:paddingBottom="@dimen/_10dp"
+                android:text="@string/hii_how_are_you"
+                android:textColor="@color/black" />
+
+        </LinearLayout>
+
+    </RelativeLayout>
+</RelativeLayout>

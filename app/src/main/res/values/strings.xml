@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">chat</string>
+    <string name="eleven">Eleven</string>
+    <string name="type_message">Type Message...</string>
+    <string name="login">Login</string>
+    <string name="e_mail">E-mail</string>
+    <string name="password">Password</string>
+    <string name="sign_up">if you have no account? <b><u>Sign Up</u></b></string>
+    <string name="sign_up_">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="login_">if you have already an account? <b><u>Login</u></b></string>
+    <string name="friends_list">Friends List</string>
+    <string name="hello_how_are_you">Hello, how are you</string>
+    <string name="blank_text_not_valid">blank text not valid !</string>
+    <string name="email_can_t_be_blank">Email can\'t be blank</string>
+    <string name="password_can_t_be_blank">Password can\'t be blank</string>
+    <string name="successfully_loggedin">Successfully LoggedIn</string>
+    <string name="name_can_t_be_blank">Name can\'t be blank</string>
+    <string name="successfully_singed_up">Successfully Singed Up</string>
+    <string name="are_you_sure_want_to_logout">Are you sure! want to logout ?</string>
+    <string name="logout">Logout !</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="hii_how_are_you">Hii how are you ?</string>
+    <string name="typing">is Typing...</string>
+</resources>
